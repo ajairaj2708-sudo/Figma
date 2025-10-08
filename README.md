@@ -1,5 +1,7 @@
 # Ex09 Event Registration Web Application
-# Date:05/10/2025
+# Name : Ajairaj
+# Reg no: 25017068
+# Date:02/10/2025
 # AIM:
 To design, develop and deploy a web application for event registration.
 
